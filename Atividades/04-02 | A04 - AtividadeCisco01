@@ -5,4 +5,4 @@ Adicione um dispositivo "Switch" e 3 dispositivos "PC" à área de trabalho.
 Conecte os PCs ao switch usando cabos Ethernet.
 Configure endereços IP para cada PC na mesma sub-rede.
 Verifique a conectividade entre os PCs usando o comando "ping" no Prompt de Comando de cada PC.
-Salve com o nome AtividadeCisco01.pkt
+Salve com o nome A04-AtividadeCisco01.pkt
