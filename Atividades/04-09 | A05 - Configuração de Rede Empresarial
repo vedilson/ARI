@@ -27,11 +27,3 @@ Os departamentos de Vendas, Marketing, Desenvolvimento e Recursos Humanos devem 
 O Departamento Financeiro deve estar em uma rede separada, sem comunicação com os demais departamentos.
 
 Cada departamento deve conter exatamente quatro computadores. Os computadores devem ser configurados com endereços IP de classe C dentro da mesma rede para os departamentos de Vendas, Marketing, Desenvolvimento e Recursos Humanos. O Departamento Financeiro deve ter sua própria rede com endereços IP exclusivos.
-
-Tarefas:
-Construa a rede empresarial no software de simulação de redes Cisco Packet Tracer.
-Atribua nomes aos departamentos conforme listado acima.
-Configure quatro computadores em cada departamento com endereços IP únicos, garantindo que os departamentos de Vendas, Marketing, Desenvolvimento e Recursos Humanos estejam na mesma rede.
-Configure os computadores do Departamento Financeiro com endereços IP exclusivos, separados das demais redes.
-Interligue os computadores dentro de cada departamento com cabos de rede.
-Teste a conectividade entre os computadores dentro dos departamentos de Vendas, Marketing, Desenvolvimento e Recursos Humanos, garantindo que eles possam se comunicar entre si, e verifique que os computadores do Departamento Financeiro não têm conectividade com os demais departamentos.
