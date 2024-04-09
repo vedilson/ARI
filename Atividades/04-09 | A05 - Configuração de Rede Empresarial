@@ -5,7 +5,7 @@ Configure quatro computadores em cada departamento com endereços IP únicos, ga
 Configure os computadores do Departamento Financeiro com endereços IP exclusivos, separados das demais redes.
 Interligue os computadores dentro de cada departamento com cabos de rede.
 Teste a conectividade entre os computadores dentro dos departamentos de Vendas, Marketing, Desenvolvimento e Recursos Humanos, garantindo que eles possam se comunicar entre si, e verifique que os computadores do Departamento Financeiro não têm conectividade com os demais departamentos.
-
+Salve o arquivo como A05-RedeEmpresarial
 _______________________________________________________________________________________________________________________________________________________________________________________________
 Instruções Gerais:
 
