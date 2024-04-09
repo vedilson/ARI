@@ -9,7 +9,7 @@ Salve o arquivo como A05-RedeEmpresarial
 _______________________________________________________________________________________________________________________________________________________________________________________________
 Instruções Gerais:
 
-Construa uma rede com 6 setores (ambientes) com 12 computadores cada e um enderço IP por ambiente, interligue com cabos UTP e configure os endereços IP de classe C:
+Construa uma rede com 5 setores  com 4 computadores cada e um enderço IP por ambiente, interligue com cabos UTP e configure os endereços IP de classe C:
 
 Exemplo: 
 IP : 192.168.0.1
