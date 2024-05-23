@@ -1,0 +1,13 @@
+Crie 2 semaforos em que as cores funcionem de forma alternada, como em um cruzamento
+
+O semaforo deve usar leds nas cores Vermelho, amarelo e verde.
+
+Vermelho deve ficar ligado por 4 segundos
+
+O amarelo deve ficar ligado por 1 segundos
+
+O verde deve ficar ligado por 3 segundos
+
+Não deve haver delay entre um leg apagar e o outro ascender
+
+Save como 03-Cruzamento-SeuNome
